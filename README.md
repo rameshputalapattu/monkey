@@ -1,1 +1,1 @@
-This repository is for reading along and coding from Thorsten Ball's excellent book [Buidling Interpreters in go](interpreterbook.com)
+This repository is for reading along and coding from Thorsten Ball's excellent book [Buidling Interpreters in go](https://interpreterbook.com)
